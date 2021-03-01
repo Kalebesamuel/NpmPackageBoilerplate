@@ -1,0 +1,26 @@
+{
+  "name": "npm_package_name",
+  "version": "1.0.0",
+  "description": "write a description here...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+url_from_your_repository"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "react native",
+    "mobile",
+    "android"
+  ],
+  "author": "Your name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://url_from_your_repository/issues"
+  },
+  "homepage": "https://url_from_your_repository#readme"
+}
